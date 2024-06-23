@@ -1,0 +1,66 @@
+[2024-06-23 13:26:08,751: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-23 13:26:08,758: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-23 13:26:08,759: INFO: common: created directory at: artifacts]
+[2024-06-23 13:26:08,759: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-23 13:26:12,420: INFO: 1170291011: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 17110438
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "3103352b76d866fdb12de8b1169f9cc19ec39f03405cb77644021b0e78be3e29"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1705:1655CE:1AD8CF:21708A:6677D51A
+Accept-Ranges: bytes
+Date: Sun, 23 Jun 2024 07:56:11 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100028-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1719129370.323662,VS0,VE1165
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a1e3d91fbfff2689e6dc0f8e754f67e2896cbda4
+Expires: Sun, 23 Jun 2024 08:01:11 GMT
+Source-Age: 1
+
+]
+[2024-06-23 13:27:09,426: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-06-23 13:27:09,426: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-23 13:27:09,426: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-23 13:27:09,432: INFO: common: created directory at: artifacts]
+[2024-06-23 13:27:09,432: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-23 13:27:11,500: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 17110438
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "3103352b76d866fdb12de8b1169f9cc19ec39f03405cb77644021b0e78be3e29"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1705:1655CE:1AD8CF:21708A:6677D51A
+Accept-Ranges: bytes
+Date: Sun, 23 Jun 2024 07:57:10 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100020-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1719129431.645666,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: dd5dfdf76df302be81eeb47185f575ea59e08c9b
+Expires: Sun, 23 Jun 2024 08:02:10 GMT
+Source-Age: 60
+
+]
+[2024-06-23 13:27:11,761: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
