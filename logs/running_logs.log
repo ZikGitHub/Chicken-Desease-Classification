@@ -169,3 +169,439 @@ x==========x]
 [2024-06-26 22:47:45,861: INFO: common: created directory at: artifacts]
 [2024-06-26 22:47:45,861: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
 [2024-06-26 22:47:45,868: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-26 22:50:53,999: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-26 22:50:54,001: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-26 22:50:54,002: INFO: common: created directory at: artifacts]
+[2024-06-26 22:50:54,003: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-26 22:50:57,811: INFO: 1170291011: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 17110438
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "3103352b76d866fdb12de8b1169f9cc19ec39f03405cb77644021b0e78be3e29"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E7EE:318126:249EE1:2C365A:667C4DF6
+Accept-Ranges: bytes
+Date: Wed, 26 Jun 2024 17:20:56 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100032-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1719422455.017417,VS0,VE1341
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 46fa61597a1a420dc8e19cf40e10292c28a48beb
+Expires: Wed, 26 Jun 2024 17:25:56 GMT
+Source-Age: 1
+
+]
+[2024-06-26 22:51:32,468: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-26 22:51:32,470: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-26 22:51:32,471: INFO: common: created directory at: artifacts]
+[2024-06-26 22:51:32,472: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-06-26 22:51:33,094: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-06-26 22:51:33,203: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-06-26 22:51:55,727: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-26 22:51:55,727: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-26 22:51:55,727: INFO: common: created directory at: artifacts]
+[2024-06-26 22:51:55,727: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-26 22:51:55,727: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-26 23:06:45,248: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-26 23:06:45,250: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-26 23:06:45,251: INFO: common: created directory at: artifacts]
+[2024-06-26 23:06:45,251: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-26 23:06:45,252: INFO: 1170291011: File already exists of size: ~ 16709 KB]
+[2024-06-26 23:07:26,343: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-26 23:07:26,345: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-26 23:07:26,346: INFO: common: created directory at: artifacts]
+[2024-06-26 23:07:26,347: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-06-26 23:07:26,599: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-06-26 23:07:26,904: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-06-26 23:07:43,092: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-26 23:07:43,094: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-26 23:07:43,096: INFO: common: created directory at: artifacts]
+[2024-06-26 23:07:43,097: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-26 23:07:43,098: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-26 23:11:48,136: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-26 23:11:48,138: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-26 23:11:48,140: INFO: common: created directory at: artifacts]
+[2024-06-26 23:11:48,141: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-26 23:11:48,142: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-26 23:13:41,563: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-26 23:13:41,565: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-26 23:13:41,566: INFO: common: created directory at: artifacts]
+[2024-06-26 23:13:41,567: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-26 23:13:41,567: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-26 23:13:51,492: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-26 23:13:51,493: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-26 23:13:51,494: INFO: common: created directory at: artifacts]
+[2024-06-26 23:13:51,495: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-26 23:13:51,496: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-26 23:14:25,636: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-26 23:14:25,638: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-26 23:14:25,639: INFO: common: created directory at: artifacts]
+[2024-06-26 23:14:25,641: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-26 23:14:25,641: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-27 22:54:57,521: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-27 22:54:57,534: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-27 22:54:57,535: INFO: common: created directory at: artifacts]
+[2024-06-27 23:21:41,913: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-27 23:21:41,916: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-27 23:21:41,917: INFO: common: created directory at: artifacts]
+[2024-06-27 23:21:41,917: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-27 23:21:45,532: INFO: 1170291011: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 17110438
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "3103352b76d866fdb12de8b1169f9cc19ec39f03405cb77644021b0e78be3e29"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 9603:133DC:185816:1CA6EC:667DA6AF
+Accept-Ranges: bytes
+Date: Thu, 27 Jun 2024 17:51:46 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100026-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1719510706.759993,VS0,VE1191
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 41df3211803ebb4cbb5ad5deb15ac18cda3f1654
+Expires: Thu, 27 Jun 2024 17:56:46 GMT
+Source-Age: 1
+
+]
+[2024-06-27 23:22:15,716: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-27 23:22:15,718: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-27 23:22:15,719: INFO: common: created directory at: artifacts]
+[2024-06-27 23:22:15,721: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-06-27 23:22:16,227: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-06-27 23:22:16,382: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-06-27 23:22:36,974: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-27 23:22:36,976: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-27 23:22:36,978: INFO: common: created directory at: artifacts]
+[2024-06-27 23:22:36,979: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-27 23:22:36,979: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-28 22:38:46,031: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 22:38:46,056: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 22:38:46,066: INFO: common: created directory at: artifacts]
+[2024-06-28 22:38:46,067: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 22:38:50,099: INFO: 1170291011: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 17110438
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "3103352b76d866fdb12de8b1169f9cc19ec39f03405cb77644021b0e78be3e29"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6DC6:DC6F:2884A5:310C12:667EEE1E
+Accept-Ranges: bytes
+Date: Fri, 28 Jun 2024 17:08:49 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100022-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1719594528.509635,VS0,VE1615
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: fa055603d4b8f72fe77a32e36a89c4844c2079e0
+Expires: Fri, 28 Jun 2024 17:13:49 GMT
+Source-Age: 1
+
+]
+[2024-06-28 22:39:55,594: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 22:39:55,597: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 22:39:55,598: INFO: common: created directory at: artifacts]
+[2024-06-28 22:39:55,599: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-06-28 22:39:56,082: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-06-28 22:39:56,253: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-06-28 22:43:11,928: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 22:43:11,929: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 22:43:11,932: INFO: common: created directory at: artifacts]
+[2024-06-28 22:43:11,934: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-28 22:43:11,935: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-28 22:48:02,704: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 22:48:02,706: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 22:48:02,707: INFO: common: created directory at: artifacts]
+[2024-06-28 22:48:02,708: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-28 22:48:02,709: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-28 22:57:15,512: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-06-28 22:57:15,528: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 22:57:15,528: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 22:57:15,528: INFO: common: created directory at: artifacts]
+[2024-06-28 22:57:15,528: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 22:57:18,137: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 17110438
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "3103352b76d866fdb12de8b1169f9cc19ec39f03405cb77644021b0e78be3e29"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6DC6:DC6F:2884A5:310C12:667EEE1E
+Accept-Ranges: bytes
+Date: Fri, 28 Jun 2024 17:27:17 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100022-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1719595637.878849,VS0,VE314
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ac0efdc0ab39c35bd61107462f1863ef47f29f92
+Expires: Fri, 28 Jun 2024 17:32:17 GMT
+Source-Age: 0
+
+]
+[2024-06-28 22:57:18,480: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-06-28 22:57:18,480: INFO: main: *******************]
+[2024-06-28 22:57:18,480: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-06-28 22:57:18,496: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 22:57:18,496: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 22:57:18,496: INFO: common: created directory at: artifacts]
+[2024-06-28 22:57:18,496: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-06-28 22:57:18,840: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-06-28 22:57:18,980: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-06-28 22:57:19,214: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-06-28 22:57:19,214: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 22:57:19,214: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 22:57:19,214: INFO: common: created directory at: artifacts]
+[2024-06-28 22:57:19,214: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-28 22:57:19,214: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-28 22:58:16,162: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-06-28 22:58:16,162: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 22:58:16,162: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 22:58:16,162: INFO: common: created directory at: artifacts]
+[2024-06-28 22:58:16,162: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 22:58:16,162: INFO: data_ingestion: File already exists of size: ~ 16709 KB]
+[2024-06-28 22:58:16,428: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-06-28 22:58:16,428: INFO: main: *******************]
+[2024-06-28 22:58:16,428: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-06-28 22:58:16,428: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 22:58:16,428: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 22:58:16,428: INFO: common: created directory at: artifacts]
+[2024-06-28 22:58:16,428: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-06-28 22:58:16,740: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-06-28 22:58:17,037: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-06-28 22:58:17,709: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-06-28 22:58:17,709: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 22:58:17,709: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 22:58:17,709: INFO: common: created directory at: artifacts]
+[2024-06-28 22:58:17,709: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-28 22:58:17,709: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-28 23:01:19,945: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-06-28 23:01:19,960: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:01:19,960: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:01:19,960: INFO: common: created directory at: artifacts]
+[2024-06-28 23:01:19,960: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 23:01:22,160: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 17110438
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "3103352b76d866fdb12de8b1169f9cc19ec39f03405cb77644021b0e78be3e29"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6DC6:DC6F:2884A5:310C12:667EEE1E
+Accept-Ranges: bytes
+Date: Fri, 28 Jun 2024 17:31:21 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100034-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1719595881.233047,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9f5cfa9219c7d0dafeba296f1fd4661d98f560ee
+Expires: Fri, 28 Jun 2024 17:36:21 GMT
+Source-Age: 244
+
+]
+[2024-06-28 23:01:22,472: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-06-28 23:01:22,472: INFO: main: *******************]
+[2024-06-28 23:01:22,472: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-06-28 23:01:22,472: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:01:22,488: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:01:22,488: INFO: common: created directory at: artifacts]
+[2024-06-28 23:01:22,488: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-06-28 23:01:24,223: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-06-28 23:01:24,223: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:01:24,223: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:01:24,223: INFO: common: created directory at: artifacts]
+[2024-06-28 23:03:17,315: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:03:17,317: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:03:17,317: INFO: common: created directory at: artifacts]
+[2024-06-28 23:03:17,321: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 23:03:19,655: INFO: 1170291011: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 17110438
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "3103352b76d866fdb12de8b1169f9cc19ec39f03405cb77644021b0e78be3e29"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6DC6:DC6F:2884A5:310C12:667EEE1E
+Accept-Ranges: bytes
+Date: Fri, 28 Jun 2024 17:33:18 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100031-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1719595998.385149,VS0,VE313
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 44affc6ffea91891508ab7b305b572a497683872
+Expires: Fri, 28 Jun 2024 17:38:18 GMT
+Source-Age: 0
+
+]
+[2024-06-28 23:03:36,394: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:03:36,396: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:03:36,397: INFO: common: created directory at: artifacts]
+[2024-06-28 23:03:36,398: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-06-28 23:03:52,999: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:03:53,002: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:03:53,003: INFO: common: created directory at: artifacts]
+[2024-06-28 23:03:53,004: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-28 23:03:53,004: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-28 23:24:04,815: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:24:04,817: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:24:04,818: INFO: common: created directory at: artifacts]
+[2024-06-28 23:24:04,819: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-28 23:24:04,820: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-28 23:24:54,012: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:24:54,014: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:24:54,015: INFO: common: created directory at: artifacts]
+[2024-06-28 23:24:54,016: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-28 23:24:54,017: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-28 23:25:19,424: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:25:19,426: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:25:19,427: INFO: common: created directory at: artifacts]
+[2024-06-28 23:25:19,428: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-28 23:25:19,430: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-28 23:25:19,444: INFO: common: created directory at: artifacts\training]
+[2024-06-28 23:26:00,756: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:26:00,758: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:26:00,759: INFO: common: created directory at: artifacts]
+[2024-06-28 23:26:00,761: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-28 23:26:00,761: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-28 23:26:00,762: INFO: common: created directory at: artifacts\training]
+[2024-06-28 23:49:48,532: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:49:48,540: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:49:48,541: INFO: common: created directory at: artifacts]
+[2024-06-28 23:49:48,541: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 23:49:50,991: INFO: 1170291011: artifacts/data_ingestion/Chicken-fecal-images.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 4636:3986C:268B49:2E98D7:667EFEC6
+Accept-Ranges: bytes
+Date: Fri, 28 Jun 2024 18:19:51 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100020-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1719598791.532096,VS0,VE957
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: dc16153888c192c199bfed740bc416ec88a8a932
+Expires: Fri, 28 Jun 2024 18:24:51 GMT
+Source-Age: 1
+
+]
+[2024-06-28 23:50:05,716: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:50:05,718: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:50:05,718: INFO: common: created directory at: artifacts]
+[2024-06-28 23:50:05,718: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-06-28 23:50:14,157: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:50:14,159: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:50:14,160: INFO: common: created directory at: artifacts]
+[2024-06-28 23:50:14,161: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-28 23:50:14,162: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-28 23:50:26,381: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:50:26,381: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:50:26,389: INFO: common: created directory at: artifacts]
+[2024-06-28 23:50:26,391: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-28 23:50:26,392: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-28 23:50:26,393: INFO: common: created directory at: artifacts\training]
+[2024-06-28 23:52:06,067: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:52:06,069: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:52:06,069: INFO: common: created directory at: artifacts]
+[2024-06-28 23:52:44,363: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:52:44,363: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:52:44,363: INFO: common: created directory at: artifacts]
+[2024-06-28 23:52:52,713: INFO: common: json file saved at: scores.json]
+[2024-06-28 23:53:28,538: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-06-28 23:53:28,538: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:53:28,538: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:53:28,538: INFO: common: created directory at: artifacts]
+[2024-06-28 23:53:28,538: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 23:53:28,538: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2024-06-28 23:53:28,757: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-06-28 23:53:28,757: INFO: main: *******************]
+[2024-06-28 23:53:28,757: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-06-28 23:53:28,757: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:53:28,757: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:53:28,757: INFO: common: created directory at: artifacts]
+[2024-06-28 23:53:28,757: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-06-28 23:53:30,366: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-06-28 23:53:30,366: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:53:30,366: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:53:30,366: INFO: common: created directory at: artifacts]
+[2024-06-28 23:53:30,366: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-06-28 23:53:30,366: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-06-28 23:53:30,366: INFO: common: created directory at: artifacts\training]
+[2024-06-28 23:53:57,258: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 23:53:57,258: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 23:53:57,258: INFO: common: created directory at: artifacts]
+[2024-06-28 23:54:04,789: INFO: common: json file saved at: scores.json]
